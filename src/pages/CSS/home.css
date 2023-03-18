@@ -1,0 +1,52 @@
+.home{
+    margin-left:250px;
+}
+
+.home-head{
+    display:flex;
+}
+
+.job{
+    border:5px solid #008fcc2b;
+    width:1000px;
+    border-radius: 15px;
+    margin:50px ;
+    padding:30px;
+    box-shadow:5px 8px 10px rgba(0, 0, 0, 0.279);
+}
+
+.jobhead{
+    display:flex;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.jobhead h6 {
+    margin-left:40px;
+}
+
+.job-intro{
+    padding:0px 50px;
+}
+
+.port{
+    margin-left: 270px;
+    margin-bottom: 50px;
+}
+
+.port Button{
+    background-color: #008ECC;
+}
+
+.port Button:hover{
+    background-color:black;
+    color:white;
+}
+
+a:hover{
+    color:white;
+}
+
+.footer{
+    display:flex;
+    justify-content: space-between;
+}

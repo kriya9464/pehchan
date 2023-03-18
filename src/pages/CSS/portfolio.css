@@ -1,0 +1,76 @@
+.portfolio-cont{
+    display:flex;
+    flex-direction: row;
+    margin:50px;
+}
+
+.portfolio-head{
+    display:flex;
+    flex-direction:row;
+    margin-bottom: 100px;
+}
+
+img{
+    width:300px;
+}
+.leftside{
+    border:5px solid #008fcc2b;
+    border-radius:15px;
+    width:400px;
+    box-shadow: 10px 13px 15px  rgba(0, 0, 0, 0.31);
+    
+}
+
+.rightside{
+    margin-left: 100px;
+}
+
+.portfolio-body{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.work{
+    width:400px;
+    border:5px solid #008fcc2b;
+    border-radius:15px;
+    margin: 50px 0px;
+    padding-left: 50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    box-shadow: 10px 13px 15px  rgba(0, 0, 0, 0.31);
+}
+
+.heading{
+    text-align: center;
+    border:1px solid #008fcc2b;
+    box-shadow: 5px 7px 10px rgba(0, 0, 0, 0.353);
+}
+
+.price-range h3{
+    text-align: center;
+    border:1px solid #008fcc2b;
+    box-shadow: 5px 7px 10px rgba(0, 0, 0, 0.353);
+    margin-bottom: 50px;
+}
+
+ul{
+    text-align: center;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    border:1px solid #008fcc2b;
+    padding:10px;
+    width:600px;
+    margin-left: 400px;
+}
+
+.contact-details{
+    text-align: center;
+    border:1px solid #008fcc2b;
+    box-shadow: 5px 7px 10px rgba(0, 0, 0, 0.353);
+    margin-top:50px;
+}

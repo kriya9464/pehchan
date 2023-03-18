@@ -1,0 +1,53 @@
+header{
+    display:flex;
+    height:100px;
+    width:100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #008ECC;
+    margin-bottom: 50px;
+}
+
+.logo{
+    display:flex;
+    align-items: center;
+    margin-left: 70px;
+}
+
+nav {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ Button:hover{
+    background-color: #e8d0c6;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin:0px 50px;
+    font-size: 1rem;
+    
+}
+
+/* a:hover{
+    background-color: #e8d0c6;
+} */
+.emergency{
+    margin-right: 70px;
+
+}
+
+.emergency Button{
+    font-size: 1.3rem;
+}
+
+.logo-img>img{
+    width:180px;
+    margin-right:20px;
+}
+.logo-name > h2{
+    font-family:fantasy;
+}

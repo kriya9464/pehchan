@@ -1,0 +1,35 @@
+.problem{
+    margin-left:300px;
+}
+
+.prob{
+    display:flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.ask{
+    display:flex;
+    flex-direction: column;
+}
+
+.ask Button{
+    margin-left: 300px;
+    margin-top:30px;
+    background-color: #008ECC;
+    width:200px;
+    color:black;
+}
+
+.solution{
+    
+    margin:50px;
+    border:5px solid #008fcc2b;
+    border-radius:15px;
+    padding:50px;
+}
+
+.solution span{
+    display:inline-block;
+    margin:10px 0px;
+}

@@ -1,0 +1,50 @@
+
+.inputGp input,
+.inputGp textarea {
+  font-size: 18px;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.inputGp input {
+  height: 40px;
+}
+.inputGp textarea {
+  height: 150px;
+}
+
+input,
+textarea {
+  margin-top: 5px;
+}
+
+.blog-body{
+    display:flex;
+    flex-wrap: wrap;
+    padding:100px;
+    
+}
+
+.blog{
+    width:30%;
+    border:2px solid black;
+    border-radius: 5px;
+    padding:20px;
+    margin:20px;
+}
+
+.blogText{
+    padding-top: 10px;
+}
+
+.blog-btn{
+  display:flex;
+  flex-direction: column;
+
+}
+
+.blog-btn h6{
+
+}
+
