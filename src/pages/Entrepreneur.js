@@ -225,7 +225,7 @@ const handleDone=()=>{
             <input type="text" onChange={(e)=>setCountry(e.target.value)}/>
             </div>
             <div className="pic">
-                <label>Upload someone pictures of your previous work</label>
+                <label>Upload some pictures of your previous work</label>
                 <input type="file" onChange={(e)=>setImg1(e.target.files[0])}/>
                 <input type="file" onChange={(e)=>setImg2(e.target.files[0])} style={{marginRight:"200px"}}/>
                 <input type="file" onChange={(e)=>setImg3(e.target.files[0])}/>
