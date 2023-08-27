@@ -1,4 +1,4 @@
-import { Button } from '@mui/material'
+/*import { Button } from '@mui/material'
 import { addDoc, collection } from 'firebase/firestore';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
@@ -116,4 +116,4 @@ const Register = ({setIsRegistered}) => {
   )
 }
 
-export default Register
+export default Register*/
